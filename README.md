@@ -31,25 +31,15 @@ DMM獨家
 
 三浦歩美
 
-![](./pic0.jpg)
-<div align="center">
+<img src="./pic0.jpg" width=100% align="center" >
+
+<div id="offical-pic" align="center">
  <img src="./pic1.jpg" width=25% ><img src="./pic2.jpg" width=25% ><img src="./pic3.jpg" width=25% ><img src="./pic4.jpg" width=25% >
  <img src="./pic5.jpg" width=25% ><img src="./pic6.jpg" width=25% ><img src="./pic7.jpg" width=25% ><img src="./pic8.jpg" width=25% >
+ <img src="./pic9.jpg" width=25% ><img src="./pic10.jpg" width=25% >
 </div>
-![](./pic1.jpg)
-![](./pic2.jpg)
-![](./pic3.jpg)
-![](./pic4.jpg)
-![](./pic5.jpg)
-![](./pic6.jpg)
-![](./pic7.jpg)
-![](./pic8.jpg)
-![](./pic9.jpg)
-![](./pic10.jpg)
 
-![](./thumb01.jpg)
-![](./thumb02.jpg)
-![](./thumb03.jpg)
-![](./thumb04.jpg)
-![](./thumb05.jpg)
-![](./thumb06.jpg)
+<div id="thumb-pic" align="center">
+ <img src="./thumb01.jpg" width=25% ><img src="./thumb02.jpg" width=25% ><img src="./thumb03.jpg" width=25% ><img src="./thumb04.jpg" width=25% >
+ <img src="./thumb05.jpg" width=25% ><img src="./thumb06.jpg" width=25% >
+</div>
