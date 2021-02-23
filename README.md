@@ -31,7 +31,7 @@ DMM獨家
 
 三浦歩美
 
-<img src="./pic0.jpg" width=100% >
+<img src="./pic0.jpg">
 
 <div id="offical-pic">
  <img src="./pic1.jpg" width=25% ><img src="./pic2.jpg" width=25% ><img src="./pic3.jpg" width=25% ><img src="./pic4.jpg" width=25% >
