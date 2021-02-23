@@ -32,7 +32,14 @@ DMM獨家
 三浦歩美
 
 ![](./pic0.jpg)
-![](./pic1.jpg)![](./pic2.jpg)![](./pic3.jpg)![](./pic4.jpg)
+<div align="center">
+ <img src="./pic1.jpg" width=25% ><img src="./pic2.jpg" width=25% ><img src="./pic3.jpg" width=25% ><img src="./pic4.jpg" width=25% >
+ <img src="./pic5.jpg" width=25% ><img src="./pic6.jpg" width=25% ><img src="./pic7.jpg" width=25% ><img src="./pic8.jpg" width=25% >
+</div>
+![](./pic1.jpg)
+![](./pic2.jpg)
+![](./pic3.jpg)
+![](./pic4.jpg)
 ![](./pic5.jpg)
 ![](./pic6.jpg)
 ![](./pic7.jpg)
