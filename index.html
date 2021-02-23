@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>hls player| JUY-974 </title>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+</head>
+
+<body>
+    <div id="movie" align="center">
+        <video id="video"  width=80% height="500" controls poster="https://cdn.jsdelivr.net/gh/ghcdn/JUY-974/pic0.jpg"></video>
+        <p>JUY-974 Madonna専属 第3弾！！令和最初の台風がやって来た！！ 暴風雨 妻が里帰り出産中 妻の姉と二人だけの夜 三浦歩美</p>
+        <script>
+        var video = document.getElementById('video');
+        var videoSrc = 'https://cdn.jsdelivr.net/gh/ghcdn/JUY-974/res/index.m3u8';
+        if (Hls.isSupported()) {
+            var hls = new Hls();
+            hls.loadSource(videoSrc);
+            hls.attachMedia(video);
+        } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+            video.src = videoSrc;
+        }
+        </script>
+    </div>
+</body>
+
+</html>
