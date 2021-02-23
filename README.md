@@ -38,7 +38,7 @@ DMM獨家
  <img src="./pic5.jpg" width=25% ><img src="./pic6.jpg" width=25% ><img src="./pic7.jpg" width=25% ><img src="./pic8.jpg" width=25% >
  <img src="./pic9.jpg" width=25% ><img src="./pic10.jpg" width=25% >
 </div>
-
+视频略缩图：
 <div id="thumb-pic">
  <img src="./thumb01.jpg" width=25% ><img src="./thumb02.jpg" width=25% ><img src="./thumb03.jpg" width=25% ><img src="./thumb04.jpg" width=25% >
  <img src="./thumb05.jpg" width=25% ><img src="./thumb06.jpg" width=25% >
